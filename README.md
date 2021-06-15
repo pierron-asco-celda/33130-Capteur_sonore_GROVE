@@ -24,7 +24,7 @@ Pour l’utilisation de ce module, référez-vous aux indications présentes sur
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [LM358](https://github.com/pierron-asco-celda/33168-Capteur_lumiere_solaire_GROVE/blob/main/src/Datasheet_SI1145-46-47.pdf)
+Ressource utilisation : [LM358](https://github.com/pierron-asco-celda/33130-Capteur_sonore_GROVE/blob/main/src/Datasheet_LM358.pdf)
 
 # Exemple :
 ### Arduino / C++
